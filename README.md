@@ -11,7 +11,7 @@ Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menu
 > **Warning**: Script Ini Tidak Support Qr Untuk Saat Ini, Jadi Kalian Bisa Menggunakan Replit Untuk Mengambil Session Atau
 Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Sesi Bisa Pakai main.js.bak yg sudah saya sediakan
 
-<h1 align="center">ZykoBotz - MD</h1>
+<h1 align="center">FannDev - MD</h1>
 <p align="center">
   <a href="https://github.com/ZykoBotz-MD"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Zyko+BOT+Multi+Device;Base+ori+by+Elaina;Recode+By+Zyko-MD;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
@@ -26,7 +26,7 @@ Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Se
 
 ## ```Connect With Me 📞``` 
 
-## ```Whatsapp``` <a href="https://wa.me/6282124046059"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+## ```Whatsapp``` <a href="https://wa.me/6289654791642"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282124046059) 
 ---------
 
@@ -54,7 +54,7 @@ Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Se
 ---------
 
 ## ```For User Panel, Buy Panel In This Number```
-[![WHATSAPP](https://img.shields.io/badge/Seller%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282124046059) 
+[![WHATSAPP](https://img.shields.io/badge/Seller%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281806108100) 
 ---------
 
 ## ```USER RAILWAY```
@@ -120,13 +120,14 @@ Set prefix
 ---------
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/ZykoBotz-MD)
-* [`My parents`](https://github.com/ZykoBotz-MD)
-* [`All Friends`](https://github.com/ZykoBotz-MD)
-* [`All Contributors`](https://github.com/ZykoBotz-MD)
-* [`All Creator Bot`](https://github.com/ZykoBotz-MD)
+* [`Allah SWT`](https://github.com/Chispear-Fann)
+* [`My parents`](https://github.com/Chispear-Fann)
+* [`All Friends`](https://github.com/Chispear-Fann)
+* [`All Contributors`](https://github.com/Chispear-Fann)
+* [`All Creator Bot`](https://github.com/Chispear-Fann)
 * [`WH-MODS-BOT`](https://github.com/WH-MODS-BOT/)
 * [`Aldi-Ganz-Offc`](https://github.com/https://github.com/Aldi-Ganz-Offc)
+* [`ZykoBotz-MD`](https://github.com/ZykoBotz-MD)
 
 ## ```Recode By ✏️```
-[![Zyko-MD](https://telegra.ph/file/c04f24cd3f2203ffe348f.jpg?size=20)](https://github.com/ZykoBotz-MD)
+[![FannDev-MD](https://telegra.ph/file/c04f24cd3f2203ffe348f.jpg?size=20)](https://github.com/Chispear-Fann)
