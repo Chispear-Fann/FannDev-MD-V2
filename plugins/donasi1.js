@@ -6,7 +6,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 let str = `
 
 ┌─「 Donasi • Pulsa 」
-│ • *Telkomsel:* [${global.ppulsa}]
+│ • *Tri:* [${global.ppulsa}]
 ❏────
 
 ┌─「 Donasi • Non Pulsa 」
@@ -20,8 +20,8 @@ let thumb = await(await fetch(wibu)).buffer()
 conn.send3ButtonDoc(m.chat, str, botdate,'Sewa Bot','.sewa','QR+PAYMENT','.donasi1','Menu','.menu', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: "tautanwa",
     mediaType: "tautanwa",
-    description: "https://www.instagram.com/p/CevoCg5hG-p/?utm_source=ig_web_copy_link", 
-    title: 'SUBSCRIBE YT',
+    description: "https://www.instagram.com/mizzypedia.id", 
+    title: '𝐅𝐚𝐧𝐧𝐃𝐞𝐯-𝗠𝗗',
     body: bottime,
     thumbnail: thumb,
     sourceUrl: syt
