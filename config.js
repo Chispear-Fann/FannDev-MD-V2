@@ -1,16 +1,17 @@
 // S C R I P T  O R I  B Y  Aldi Lesmana🔭
-// Ditulis Ulang Oleh ZYKO-MD
+// Ditulis Ulang Oleh FANN-MD
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
 // • Allah SWT
 // • WH MODS DEV
+// • FANN-MD
 // • ZYKO-MD
 // • Dll
 
 //[!] Jangan Lupa Ganti Ownernya
 /*============= INFO V4 NO ENC  =============*/
-    // MAU YANG NO ENC fix-bot-v4 30K AJA , MINAT PC GW wa.me/6282124690625
+    // MAU YANG NO ENC fix-bot-v4 30K AJA , MINAT PC GW wa.me/6281806108100
 
     // minus info-tqto.js dan info-script.js tetep di enc, karena banyak yang menghapus credit + script
     // kalau masih kekeh semua no enc 35k aja om
@@ -42,56 +43,56 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/kabulsaputra21'
-global.tautanwa = 'https://wa.me/message/KRXQFJXHYZDNL1'
-global.sgh = 'https://github.com/ZykoBotz-MD' //github
-global.sgc = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf' //group whatsapp
+global.sig = 'https://instagram.com/mizzypedia.id'
+global.tautanwa = 'https://wa.me/6281806108100'
+global.sgh = 'https://github.com/Chispear-Fann' //github
+global.sgc = 'https://chat.whatsapp.com/Cxd2lnLtc2GJ7g05104T5N' //group whatsapp
 global.sdc = '-' //discord
-global.linkyt = 'https://youtube.com/@zykobotz'
-global.syt = 'https://youtube.com/@zykobotz'
+global.linkyt = 'https://youtube.com/@MazzIzyy'
+global.syt = 'https://youtube.com/@MazzIzyy'
 global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf'
+global.snh = 'https://chat.whatsapp.com/Cxd2lnLtc2GJ7g05104T5N'
 global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
-global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
+global.wame = 'https://wa.me/6281806108100'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['62XXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
-['62XXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
+['6282311622968', '𝐅𝐚𝐧𝐧𝐃𝐞𝐯', true],
+['6281806108100', '𝗭𝘆𝘆𝗗𝗲𝘃', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62XXX' //pasang no bot lo 
-global.nomorown = '62XXX' //pasang no own lo
-global.nomorown1 = '62XXX'
-global.nomorown2 = '62XXX'
+global.nomorbot = '629654791642' //pasang no bot lo 
+global.nomorown = '6282311622968' //pasang no own lo
+global.nomorown1 = '6281806108100'
+global.nomorown2 = '6289654791642'
 global.nomorwa = '0'
-global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Created By 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.namabot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.packname2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown = '𝐅𝐚𝐧𝐧𝐃𝐞𝐯'
+global.gcname = '𝗙𝗮𝗻𝗻𝗗𝗲𝘃-𝗕𝗼𝘁𝘇'
+global.author = 'Created By 𝐅𝐚𝐧𝐧𝐃𝐞𝐯'
+global.namabot = '𝐅𝐚𝐧𝐧𝐃𝐞𝐯-𝗠𝗗'
+global.namebot = '𝐅𝐚𝐧𝐧𝐃𝐞𝐯-𝗠𝗗'
+global.packname2 = '𝐅𝐚𝐧𝐧𝐃𝐞𝐯'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.nameown2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown1= '𝐅𝐚𝐧𝐧𝐃𝐞𝐯'
+global.nameown2 = '𝗭𝘆𝘆𝗗𝗲𝘃'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.wm2 = '𝑍𝑌𝐾𝑂-𝑀𝐷 '
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐅𝐚𝐧𝐧𝐃𝐞𝐯'
+global.wm2 = '𝐅𝐚𝐧𝐧𝐃𝐞𝐯-𝗠𝗗 '
 global.packname = wm
 global.watermark = wm
-global.titlebot = `𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.titlebot = `𝐅𝐚𝐧𝐧𝐃𝐞𝐯-𝗠𝗗`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.stickauth = `© 𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.stickpack = '𝐅𝐚𝐧𝐧𝐃𝐞𝐯-𝗠𝗗'
+global.stickauth = `© 𝐅𝐚𝐧𝐧𝐃𝐞𝐯`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -111,14 +112,14 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '08XXXXXXXXXX' //pasang no lo sinih buat donasi 
-global.povo = '08XXXXXXXXXX' 
-global.pgopay = '08XXXXXXXXXX'
+global.pdana = '089501770425' //pasang no lo sinih buat donasi 
+global.povo = '-' 
+global.pgopay = '089654791642'
 global.plinkaja = '-' //link aja
-global.ppulsa = '08XXXXXXXXXX'
-global.ppulsa2 = '08XXXXXXXXXX'
-global.psaweria = 'https://saweria.co/hyuura'
-global.donasikabul = 'Jasa Sewa ZykoBotz-MD\nhttps://lynk.id/kabul',
+global.ppulsa = '089654791642'
+global.ppulsa2 = '081806108100'
+global.psaweria = 'https://saweria.co/fandiiNotHere'
+global.donasikabul = 'Jasa Sewa 𝐅𝐚𝐧𝐧𝐃𝐞𝐯-𝗠𝗗\nhttps://linktr.ee/mizzypedia.id',
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -344,9 +345,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/kabulsaputra21"
+global.urlnya = "https://www.instagram.com/mizzypedia.id"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '6282124690625'
+global.phn = '6281806108100'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
