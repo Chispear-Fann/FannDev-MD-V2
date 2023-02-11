@@ -4,7 +4,8 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
   
     
     conn.sendButtonDoc(text, wm, 'ᴡᴇʟᴄᴏᴍᴇ', fkontak, { contextInfo: { externalAdReply: { showAdAttribution: false,
-    mediaUrl: 'https://instagram/wannzx_133',
+    mediaUrl: '
+https://instagram.com/affandianugrh._',
     mediaType: 2, 
     description: sgc,
     title: '≪ ᴄʟɪᴄᴋ ʜᴇʀᴇ ⋟',
